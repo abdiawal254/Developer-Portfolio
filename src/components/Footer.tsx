@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <p className="font-heading font-bold text-xl">
-              <span className="text-gradient">Lewiii Thee G</span>
+              <span className="text-gradient">Awaldeen The G</span>
             </p>
             <p className="text-sm text-muted-foreground mt-1">
               Creating digital experiences that inspire. <br />
