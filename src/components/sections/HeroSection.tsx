@@ -114,7 +114,7 @@ const HeroSection = () => {
                   }}
                 >
                   <img 
-                    src="/porfolio-profile.jpeg" 
+                    src="/new-awaldeen.jpeg" 
                     alt="Abdiawal Aden"
                     className="w-full h-full object-cover rounded-full border-4 border-background shadow-2xl"
                     style={{

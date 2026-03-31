@@ -18,17 +18,16 @@ const CareerSection = () => {
         <ScrollReveal delay={200}>
           <Timeline>
             <TimelineItem 
-              year="2024 - Present"
+              year="2025 - Present"
+              title="Chief Executive Officer (CEO) @ GXT Software Solutions"
+              description="As the Chief Executive Officer at GXT Software Solutions, I lead a remote software solutions company specializing in modern, scalable web applications for international clients, primarily in the United States. My contributions include designing responsive web applications utilizing React, JavaScript, and modern CSS frameworks, collaborating with clients to deliver tailored solutions, and optimizing website performance for seamless user experiences.
+              Currently pursuing a Bachelor of Science in Software Engineering at KCA University, I am dedicated to enhancing my expertise in software development and web technologies. My focus remains on delivering innovative full-stack solutions with a strong emphasis on engineering, software development, and web development, while fostering collaboration to meet client needs effectively.  "icon={<Code size={18} />}
+            />
+            <TimelineItem 
+              year="2025 - Present"
               title="Software Engineering Student"
               description="Currently pursuing a Bachelor's degree in Software Engineering at KCA University. As a second-year student, I'm building a strong foundation in algorithms, data structures, software engineering, and computer networks."
               icon={<GraduationCap size={18} />}
-            />
-            
-            <TimelineItem 
-              year="2024 - 2025"
-              title="Freelance Web Developer"
-              description="Working on freelance projects to build responsive and user-friendly websites for clients. Focusing on modern frameworks like React and Next.js to deliver exceptional user experiences."
-              icon={<Code size={18} />}
             />
             
             <TimelineItem 
