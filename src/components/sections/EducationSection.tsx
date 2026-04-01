@@ -78,7 +78,7 @@ const EducationSection = () => {
                     <p className="mt-2 text-muted-foreground">Currently pursuing a Bachelor's degree in Sofware Engineering. As a second-year student, I'm building a strong foundation in algorithms, data structures, software engineering, and computer networks.</p>
                   </div>
                   <div className="text-right md:whitespace-nowrap">
-                    <span className="bg-primary/10 text-primary px-3 py-1 rounded-full text-sm">2024 - 2028</span>
+                    <span className="bg-primary/10 text-primary px-3 py-1 rounded-full text-sm">2026 - 2028</span>
                   </div>
                 </div>
               </div>

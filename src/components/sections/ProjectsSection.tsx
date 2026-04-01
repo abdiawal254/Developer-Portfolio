@@ -205,7 +205,7 @@ const ProjectsSection = () => {
         <ScrollReveal delay={300}>
           <div className="mt-12 text-center">
             <Button variant="outline" asChild>
-              <a href="https://github.com/lewiii254?tab=repositories" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/abdiawal254?tab=repositories" target="_blank" rel="noopener noreferrer">
                 View All Projects🧾 <span className="ml-1">🔍</span>
               </a>
             </Button>

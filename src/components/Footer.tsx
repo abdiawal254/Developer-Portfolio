@@ -5,9 +5,9 @@ const Footer = () => {
   const year = new Date().getFullYear();
   
   const socialLinks = [
-    { name: 'GitHub', icon: <Github size={18} />, url: 'https://github.com/lewiii254' },
-    { name: 'LinkedIn', icon: <Linkedin size={18} />, url: 'https://linkedin.com/in/' },
-    { name: 'Twitter', icon: <Twitter size={18} />, url: 'https://x.com/LewiiiTheG' },
+    { name: 'GitHub', icon: <Github size={18} />, url: 'https://github.com/abdiawal254' },
+    { name: 'LinkedIn', icon: <Linkedin size={18} />, url: 'https://www.linkedin.com/in/abdiawal-siad-924b99280/' },
+    { name: 'Twitter', icon: <Twitter size={18} />, url: 'https://x.com/A23935Aden' },
     { name: 'Email', icon: <Mail size={18} />, url: 'mailto:adenabdiawal@gmail.com' },
   ];
 
